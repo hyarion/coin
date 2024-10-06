@@ -7,6 +7,7 @@ set(COIN_EVENTS_FILES
 	SoMotion3Event.cpp
 	SoMouseButtonEvent.cpp
 	SoSpaceballButtonEvent.cpp
+	SoTouchEvent.cpp
 )
 
 # build library
